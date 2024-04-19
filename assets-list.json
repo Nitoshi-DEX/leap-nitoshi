@@ -1,0 +1,11 @@
+[
+    {
+        "name":"Shiba Nibu",
+        "description":"",
+        "coinDenom":"unibi",
+        "coinDecimals":6,
+        "coinMinimalDenom":"unibi",
+        "icon":"",
+        "coinGeckoId":""
+    }
+]
