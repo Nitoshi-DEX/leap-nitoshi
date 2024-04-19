@@ -1,9 +1,10 @@
 [
     {
-        "name":"Shiba Nibu",
-        "description":"",
-        "contractAddress":"nibi19lnjk8h3mhedysp58rhrk54fnfgr8p09gh35utfjngzt4cv9rcksqv9072",
-        "coinDecimals":6,
-        "icon":"https://github.com/Nitoshi-DEX/leap-nitoshi/blob/master/tokens/nibi19lnjk8h3mhedysp58rhrk54fnfgr8p09gh35utfjngzt4cv9rcksqv9072.png?raw=true"
+        "name":"Red Panda",
+        "symbol":"PANDA",
+        "decimals":6,
+        "contractAddress":"nibi1uflqeuuhtrw30n334l0aa7hs23aj7mmv09xvlna484jdygnjrnls5hmtac",
+        "totalSupply":1000000000000000,
+        "icon":"https://github.com/Nitoshi-DEX/leap-nitoshi/blob/master/tokens/nibi1uflqeuuhtrw30n334l0aa7hs23aj7mmv09xvlna484jdygnjrnls5hmtac.png?raw=true"
     }
 ]
