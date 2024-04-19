@@ -2,10 +2,8 @@
     {
         "name":"Shiba Nibu",
         "description":"",
-        "coinDenom":"unibi",
+        "contractAddress":"nibi19lnjk8h3mhedysp58rhrk54fnfgr8p09gh35utfjngzt4cv9rcksqv9072",
         "coinDecimals":6,
-        "coinMinimalDenom":"unibi",
-        "icon":"",
-        "coinGeckoId":""
+        "icon":"https://github.com/Nitoshi-DEX/leap-nitoshi/blob/master/tokens/nibi19lnjk8h3mhedysp58rhrk54fnfgr8p09gh35utfjngzt4cv9rcksqv9072.png?raw=true"
     }
 ]
