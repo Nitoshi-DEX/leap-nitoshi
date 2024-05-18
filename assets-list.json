@@ -6,5 +6,13 @@
         "contractAddress":"nibi1uflqeuuhtrw30n334l0aa7hs23aj7mmv09xvlna484jdygnjrnls5hmtac",
         "totalSupply":1000000000000000,
         "icon":"https://github.com/Nitoshi-DEX/leap-nitoshi/blob/master/tokens/nibi1uflqeuuhtrw30n334l0aa7hs23aj7mmv09xvlna484jdygnjrnls5hmtac.png?raw=true"
-    }
+    },
+    {
+        "name":"Nibbids",
+        "symbol":"NIBS",
+        "decimals":6,
+        "contractAddress":"nibi1eqhsgep7wxd833cc7tfnncddq9nsalu56lm8vcdftf604zgluptqlte9sa",
+        "totalSupply":250000000000000000,
+        "icon":"https://github.com/Nitoshi-DEX/leap-nitoshi/blob/master/tokens/nibi1eqhsgep7wxd833cc7tfnncddq9nsalu56lm8vcdftf604zgluptqlte9sa.png?raw=true"
+    }    
 ]
